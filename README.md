@@ -1,4 +1,5 @@
 # Tips Data Set
+![image](https://github.com/user-attachments/assets/90bb8915-bc9d-417a-b5ed-ab1d51a80fe1)
 
 ## Introduction
 Welcome to the Tips Seaborn Dataset Analysis project! This project explores and analyzes the famous tips dataset using Python libraries like pandas, matplotlib, and seaborn. The dataset provides information about the bills, tips, and various attributes of customers in a restaurant, helping to uncover insights about tipping behavior and relationships between different variables.
